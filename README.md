@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/quangnguyen98"><img src="https://api.daily.dev/devcards/b7883e8c9d414a748f5ddb841b9caaab.png?r=x14" width="400" alt="Quang Nguyen's Dev Card"/></a>
-
-[![Quang Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=quangnguyen98)](https://github.com/quangnguyen-98)
+<a href="https://app.daily.dev/quangnguyen98"><img src="https://api.daily.dev/devcards/b7883e8c9d414a748f5ddb841b9caaab.png?r=gq5" width="400" alt="Quang Nguyen's Dev Card"/></a>
 
 ### Fall in love with:
 
