@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/quangnguyen98"><img src="https://api.daily.dev/devcards/b7883e8c9d414a748f5ddb841b9caaab.png?r=xg6" width="400" alt="Quang Nguyen's Dev Card"/></a>
+<a href="https://app.daily.dev/quangnguyen98"><img src="https://api.daily.dev/devcards/b7883e8c9d414a748f5ddb841b9caaab.png?r=x14" width="400" alt="Quang Nguyen's Dev Card"/></a>
 
 ### Fall in love with:
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,expressjs,nestjs,reactjs,nextjs,aws,ts,dynamo,mysql,mongo&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,expressjs,nestjs,react,nextjs,aws,js,ts,dynamodb,mysql,mongo&theme=dark)](https://skills.thijs.gg)
 <br />
