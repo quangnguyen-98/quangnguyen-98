@@ -6,7 +6,7 @@
 ![Quang Nguyen's github stats](https://github-readme-stats.vercel.app/api?username=quangnguyen-98&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangnguyen-98&layout=compact&theme=onedark)
 
-<!--
+
 **quangnguyen-98/quangnguyen-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <a href="https://app.daily.dev/quangnguyen98"><img src="https://api.daily.dev/devcards/b7883e8c9d414a748f5ddb841b9caaab.png?r=gq5" width="400" alt="Quang Nguyen's Dev Card"/></a>
 
