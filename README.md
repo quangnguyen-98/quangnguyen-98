@@ -1,4 +1,4 @@
-### Hi, I'mm Quang Nguyen 🔥
+### Hi, I'm Quang Nguyen 🔥
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=quangnguyen-98)
 [![Linkedin Badge](https://img.shields.io/badge/Quang%20Nguyen-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/quangnguyen4298/)](https://www.linkedin.com/in/quangnguyen4298/)
